@@ -4,7 +4,7 @@ The project is divided into three core parts:
 
 2️⃣ Pose Analysis – computing joint angles, torso orientation, and a custom shoulder-lift normalization metric
 
-3️⃣ Visualization & Interaction – a real-time GUI with live metrics, pose quality feedback, and hold-time tracking
+3️⃣ Main - Visualization & Interaction, a real-time GUI with live metrics, pose quality feedback, and hold-time tracking
 
 The entire system is designed using Python classes and object-oriented programming (OOP), with clear separation of responsibilities (pose detection, analysis logic, and UI), making the codebase modular, readable, and easy to extend.
 
